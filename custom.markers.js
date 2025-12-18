@@ -80,14 +80,14 @@ UnminedCustomMarkers = {
                 {
             x: 2015,
             z: 4170,
-            image: "images/france.webp",
+            image: "images/france.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "French Republic",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 50px Calibri,sans serif",
+            font: "bold 20px Calibri,sans serif",
         },
 
 
