@@ -76,8 +76,6 @@ UnminedCustomMarkers = {
             font: "bold 50px Calibri,sans serif",
         },
 
-        // add your markers here
-
       // France
                 {
             x: 2015,
