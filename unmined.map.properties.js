@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: 0,
     maxRegionX: 15,
     maxRegionZ: 14,
-    worldName: "IDOL.SMP Interactive Map",
+    worldName: "IDOL.SMP Napoleon",
     background: "",
     markers: new Array(),
     enableGrid: true,
