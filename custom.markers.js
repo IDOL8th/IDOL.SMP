@@ -78,8 +78,8 @@ UnminedCustomMarkers = {
 
       // France
                 {
-            x: 2015,
-            z: 4170,
+            x: 1994,
+            z: 4192,
             image: "images/france.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -87,7 +87,7 @@ UnminedCustomMarkers = {
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
+            font: "bold 17px Calibri,sans serif",
         },
 
 
