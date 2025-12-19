@@ -186,7 +186,7 @@ UnminedCustomMarkers = {
         {
             x: 3004,
             z: 3808,
-            image: "images/saxony.png",
+            image: "images/saxony.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Saxony",
@@ -291,7 +291,7 @@ UnminedCustomMarkers = {
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 17px Calibri,sans serif",
+            font: "17px Calibri,sans serif",
         },
 
         // Poland
@@ -361,7 +361,7 @@ UnminedCustomMarkers = {
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 17px Calibri,sans serif",
+            font: "17px Calibri,sans serif",
         }, 
 // Milan
         {
