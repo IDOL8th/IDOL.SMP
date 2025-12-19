@@ -59,7 +59,7 @@ UnminedCustomMarkers = {
 // Dutch Republic
         {
             x: 2231,
-            z: 3626,
+            z: 3638,
             image: "images/dutch.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -68,12 +68,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 20,
             font: "17px Calibri,sans serif",
-        }, 
- 
+        },
 // Spain
         {
-            x: 1071,
-            z: 5270,
+            x: 1080,
+            z: 5295,
             image: "images/spain.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -82,12 +81,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 20,
             font: "bold 17px Calibri,sans serif",
-        }, 
-        
-        // Portugal
+        },
+// Portugal
         {
-            x: 570,
-            z: 5213,
+            x: 476,
+            z: 5313,
             image: "images/portugal.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -97,11 +95,10 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "17px Calibri,sans serif",
         }, 
-
-        // Britain
+// Britain
         {
-            x: 1640,
-            z: 3475,
+            x: 1730,
+            z: 3665,
             image: "images/britain.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -114,8 +111,8 @@ UnminedCustomMarkers = {
 
 // Prussia
         {
-            x: 3170,
-            z: 3449,
+            x: 3009,
+            z: 3590,
             image: "images/prussia.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -128,8 +125,8 @@ UnminedCustomMarkers = {
 
 // Russia
         {
-            x: 4905,
-            z: 2615,
+            x: 4826,
+            z: 2741,
             image: "images/russia.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -142,8 +139,8 @@ UnminedCustomMarkers = {
  
 // Sweden
         {
-            x: 3100,
-            z: 2561,
+            x: 3281,
+            z: 2615,
             image: "images/sweden.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -152,12 +149,12 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 20,
             font: "17px Calibri,sans serif",
-        }, 
+        },
 
-// Ottoman Empire
+        // Ottoman Empire
         {
-            x: 4755,
-            z: 5088,
+            x: 4834,
+            z: 5028,
             image: "images/ottoman.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -170,8 +167,8 @@ UnminedCustomMarkers = {
  
 // Naples
         {
-            x: 3263,
-            z: 5296,
+            x: 3210,
+            z: 5338,
             image: "images/naples.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -184,8 +181,8 @@ UnminedCustomMarkers = {
  
 // Saxony
         {
-            x: 3004,
-            z: 3808,
+            x: 2884,
+            z: 3843,
             image: "images/saxony.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -198,8 +195,8 @@ UnminedCustomMarkers = {
  
 // Venetian Republic
         {
-            x: 2941,
-            z: 4604,
+            x: 2946,
+            z: 4631,
             image: "images/venice.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -212,8 +209,8 @@ UnminedCustomMarkers = {
  
 // Denmark
         {
-            x: 2725,
-            z: 3040,
+            x: 2852,
+            z: 3164,
             image: "images/denmark.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -223,11 +220,11 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "17px Calibri,sans serif",
         },
-
-        // Bavaria
+        
+// Bavaria
         {
-            x: 2928,
-            z: 4110,
+            x: 2882,
+            z: 4141,
             image: "images/bavaria.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -240,8 +237,8 @@ UnminedCustomMarkers = {
  
 // Austrian Empire
         {
-            x: 3634,
-            z: 4287,
+            x: 3347,
+            z: 4259,
             image: "images/austria.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -254,8 +251,8 @@ UnminedCustomMarkers = {
  
 // Savoy
         {
-            x: 2457,
-            z: 4745,
+            x: 2445,
+            z: 4764,
             image: "images/savoy.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -268,8 +265,8 @@ UnminedCustomMarkers = {
  
 // Cologne
         {
-            x: 2471,
-            z: 3687,
+            x: 2567,
+            z: 3851,
             image: "images/cologne.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -282,8 +279,8 @@ UnminedCustomMarkers = {
  
 // Baden-Wurttemberg
         {
-            x: 2595,
-            z: 4151,
+            x: 2629,
+            z: 4184,
             image: "images/baden.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -294,10 +291,37 @@ UnminedCustomMarkers = {
             font: "17px Calibri,sans serif",
         },
 
-        // Poland
+// Milan
         {
-            x: 4066,
-            z: 3486,
+            x: 2660,
+            z: 4725,
+            image: "images/milan.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Milan",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "17px Calibri,sans serif",
+        },
+ 
+// Nassau
+        {
+            x: 2379,
+            z: 3984,
+            image: "images/nassau.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Nassau",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "17px Calibri,sans serif",
+        },
+// Poland
+        {
+            x: 3700,
+            z: 3569,
             image: "images/Poland.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -310,8 +334,8 @@ UnminedCustomMarkers = {
  
 // Papal States
         {
-            x: 3003,
-            z: 5164,
+            x: 2988,
+            z: 5181,
             image: "images/papal.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -324,8 +348,8 @@ UnminedCustomMarkers = {
  
 // Hanover
         {
-            x: 2579,
-            z: 3551,
+            x: 2618,
+            z: 3582,
             image: "images/hanover.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -362,34 +386,21 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 20,
             font: "17px Calibri,sans serif",
-        }, 
-// Milan
-        {
-            x: 2678,
-            z: 4688,
-            image: "images/milan.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.3,
-            text: "Milan",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "17px Calibri,sans serif",
         },
- 
-// Nassau
+        
+// Switzerland
         {
-            x: 2380,
-            z: 3965,
-            image: "images/nassau.png",
+            x: 2466,
+            z: 4477,
+            image: "images/switzerland.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
-            text: "Nassau",
+            text: "Switzerland",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "17px Calibri,sans serif",
-        }, 
+            font: "bold 17px Calibri,sans serif",
+        },
 
         // do not delete the following two closing brackets
     ]
