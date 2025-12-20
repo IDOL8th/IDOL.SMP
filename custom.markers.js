@@ -399,7 +399,7 @@ UnminedCustomMarkers = {
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 17px Calibri,sans serif",
+            font: "17px Calibri,sans serif",
         },
 
         // do not delete the following two closing brackets
